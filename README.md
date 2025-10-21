@@ -1,6 +1,7 @@
 # 🖥️ linux_sys_utils
 
-A need some scripts to help with various tasks
+A needed some scripts to help with various tasks:
+- smart tests and sector checks for rosewill hdd drive enclosue
 
 ## ⚙️ Requirements
 
